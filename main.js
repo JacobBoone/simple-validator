@@ -79,3 +79,42 @@ else if(state.length !== 2){
 
 
 // Married Status
+
+
+
+var marriedStatus = prompt("Please enter your marital status. Yes or No");
+
+
+var marriedResult = (marriedStatus.toLowerCase() === "yes" || "no");
+
+
+
+
+
+
+
+// if (marriedResult === "yes" || "no"){
+// }
+
+
+// else if (marriedResult !== "yes" || "no"){
+// 	alert("Please re-enter your marital status as Yes or No")
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
